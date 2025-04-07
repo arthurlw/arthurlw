@@ -2,6 +2,8 @@
 [![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurlw&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurlw&hide=stars&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=arthurlw)
+
 
 <!-- ## Hi there 👋
 
