@@ -1,8 +1,8 @@
-[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurlw&hide=stars,issues&show_icons=true&theme=dracula&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurlw&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurlw&hide=stars&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+👨‍💻 Currently working on:
 
-![](https://komarev.com/ghpvc/?username=arthurlw)
+- Contributing to [pandas](https://github.com/pandas-dev/pandas):
+  - [UDF User Guide](https://github.com/pandas-dev/pandas/pull/61195)
+  - [Adding dict support for `pd.set_option`](https://github.com/pandas-dev/pandas/pull/61151)
 
 
 <!-- ## Hi there 👋
