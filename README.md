@@ -3,6 +3,8 @@
 - Contributing to [pandas](https://github.com/pandas-dev/pandas):
   - [UDF User Guide](https://github.com/pandas-dev/pandas/pull/61195)
   - [Adding dict support for `pd.set_option`](https://github.com/pandas-dev/pandas/pull/61151)
+ 
+![](https://komarev.com/ghpvc/?username=arthurlw)
 
 
 <!-- ## Hi there 👋
