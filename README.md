@@ -1,10 +1,6 @@
-👨‍💻 Currently working on:
+Hi! I'm currently working on: 
+- [Implementing the NumbaExecutionEngine](https://github.com/pandas-dev/pandas/pull/61487)
 
-- Contributing to [pandas](https://github.com/pandas-dev/pandas):
-  - [UDF User Guide](https://github.com/pandas-dev/pandas/pull/61195)
-  - [Adding dict support for `pd.set_option`](https://github.com/pandas-dev/pandas/pull/61151)
- 
-![](https://komarev.com/ghpvc/?username=arthurlw)
 
 
 <!-- ## Hi there 👋
