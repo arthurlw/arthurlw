@@ -1,5 +1,4 @@
-Hi! I'm currently working on: 
-- [Implementing the NumbaExecutionEngine](https://github.com/pandas-dev/pandas/pull/61487)
+Hi! I'm currently working on [Implementing the NumbaExecutionEngine](https://github.com/pandas-dev/pandas/pull/61487)
 
 
 
